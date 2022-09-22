@@ -1,2 +1,2 @@
 # Newtwitterclone
-Live demo[https://sahiltwitter.herokuapp.com/]
+(Live demo)[https://Repitwitterclone.sahilmehra23.repl.co]
